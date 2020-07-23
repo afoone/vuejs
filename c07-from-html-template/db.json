@@ -1,0 +1,68 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "url": "service-detail.html",
+      "title": "Masaje de piedras calientes",
+      "icon": "flaticon-stones",
+      "text": "El masaje de piedras calientes es la pera",
+      "image": "images/resource/service-1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "service-detail.html",
+      "title": "Tratamiento facial",
+      "icon": "flaticon-facial",
+      "text": "Cuidao con lo que imagináis, malpensaos",
+      "image": "images/resource/service-2.jpg"
+    },
+    {
+      "id": 3,
+      "url": "service-detail.html",
+      "title": "Masaje de piedras calientes",
+      "icon": "flaticon-stones",
+      "text": "El masaje de piedras calientes es la pera",
+      "image": "images/resource/service-1.jpg"
+    },
+    {
+      "id": 4,
+      "url": "service-detail.html",
+      "title": "Masaje de piedras calientes 4",
+      "icon": "flaticon-stones",
+      "text": "El masaje de piedras calientes es la pera",
+      "image": "images/resource/service-1.jpg"
+    },
+    {
+      "id": 5,
+      "url": "service-detail.html",
+      "title": "Tratamiento facial 5",
+      "icon": "flaticon-facial",
+      "text": "Cuidao con lo que imagináis, malpensaos",
+      "image": "images/resource/service-2.jpg"
+    },
+    {
+      "id": 6,
+      "url": "service-detail.html",
+      "title": "Masaje de piedras calientes 6",
+      "icon": "flaticon-stones",
+      "text": "El masaje de piedras calientes es la pera",
+      "image": "images/resource/service-1.jpg"
+    },
+    {
+      "id": 7,
+      "url": "service-detail.html",
+      "title": "Tratamiento facial 5",
+      "icon": "flaticon-facial",
+      "text": "Cuidao con lo que imagináis, malpensaos",
+      "image": "images/resource/service-2.jpg"
+    },
+    {
+      "id": 8,
+      "url": "service-detail.html",
+      "title": "Masaje de piedras calientes 6",
+      "icon": "flaticon-stones",
+      "text": "El masaje de piedras calientes es la pera",
+      "image": "images/resource/service-1.jpg"
+    }
+  ]
+}
